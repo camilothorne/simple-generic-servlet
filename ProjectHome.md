@@ -1,0 +1,1 @@
+Servlet-based generic front end to server-based applications.
